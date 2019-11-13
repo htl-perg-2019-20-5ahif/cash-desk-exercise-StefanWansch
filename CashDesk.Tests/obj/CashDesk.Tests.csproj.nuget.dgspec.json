@@ -1,0 +1,158 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Schule\\5.Klasse\\Stropek\\CSharp\\Cashdesk\\cash-desk-exercise-StefanWansch\\CashDesk.Tests\\CashDesk.Tests.csproj": {}
+  },
+  "projects": {
+    "D:\\Schule\\5.Klasse\\Stropek\\CSharp\\Cashdesk\\cash-desk-exercise-StefanWansch\\CashDesk.Tests\\CashDesk.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Schule\\5.Klasse\\Stropek\\CSharp\\Cashdesk\\cash-desk-exercise-StefanWansch\\CashDesk.Tests\\CashDesk.Tests.csproj",
+        "projectName": "CashDesk.Tests",
+        "projectPath": "D:\\Schule\\5.Klasse\\Stropek\\CSharp\\Cashdesk\\cash-desk-exercise-StefanWansch\\CashDesk.Tests\\CashDesk.Tests.csproj",
+        "packagesPath": "C:\\Users\\Stefan Wansch\\.nuget\\packages\\",
+        "outputPath": "D:\\Schule\\5.Klasse\\Stropek\\CSharp\\Cashdesk\\cash-desk-exercise-StefanWansch\\CashDesk.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Stefan Wansch\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "D:\\Schule\\5.Klasse\\Stropek\\CSharp\\Cashdesk\\cash-desk-exercise-StefanWansch\\CashDesk\\CashDesk.csproj": {
+                "projectPath": "D:\\Schule\\5.Klasse\\Stropek\\CSharp\\Cashdesk\\cash-desk-exercise-StefanWansch\\CashDesk\\CashDesk.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.3.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Schule\\5.Klasse\\Stropek\\CSharp\\Cashdesk\\cash-desk-exercise-StefanWansch\\CashDesk\\CashDesk.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Schule\\5.Klasse\\Stropek\\CSharp\\Cashdesk\\cash-desk-exercise-StefanWansch\\CashDesk\\CashDesk.csproj",
+        "projectName": "CashDesk",
+        "projectPath": "D:\\Schule\\5.Klasse\\Stropek\\CSharp\\Cashdesk\\cash-desk-exercise-StefanWansch\\CashDesk\\CashDesk.csproj",
+        "packagesPath": "C:\\Users\\Stefan Wansch\\.nuget\\packages\\",
+        "outputPath": "D:\\Schule\\5.Klasse\\Stropek\\CSharp\\Cashdesk\\cash-desk-exercise-StefanWansch\\CashDesk\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Stefan Wansch\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+D:\Schule\5.Klasse\Stropek\CSharp\Cashdesk\cash-desk-exercise-StefanWansch\CashDesk\bin\Debug\netcoreapp3.0\CashDesk.deps.json
+D:\Schule\5.Klasse\Stropek\CSharp\Cashdesk\cash-desk-exercise-StefanWansch\CashDesk\bin\Debug\netcoreapp3.0\CashDesk.runtimeconfig.json
+D:\Schule\5.Klasse\Stropek\CSharp\Cashdesk\cash-desk-exercise-StefanWansch\CashDesk\bin\Debug\netcoreapp3.0\CashDesk.runtimeconfig.dev.json
+D:\Schule\5.Klasse\Stropek\CSharp\Cashdesk\cash-desk-exercise-StefanWansch\CashDesk\bin\Debug\netcoreapp3.0\CashDesk.dll
+D:\Schule\5.Klasse\Stropek\CSharp\Cashdesk\cash-desk-exercise-StefanWansch\CashDesk\obj\Debug\netcoreapp3.0\CashDesk.csprojAssemblyReference.cache
+D:\Schule\5.Klasse\Stropek\CSharp\Cashdesk\cash-desk-exercise-StefanWansch\CashDesk\obj\Debug\netcoreapp3.0\CashDesk.AssemblyInfoInputs.cache
+D:\Schule\5.Klasse\Stropek\CSharp\Cashdesk\cash-desk-exercise-StefanWansch\CashDesk\obj\Debug\netcoreapp3.0\CashDesk.AssemblyInfo.cs
+D:\Schule\5.Klasse\Stropek\CSharp\Cashdesk\cash-desk-exercise-StefanWansch\CashDesk\bin\Debug\netcoreapp3.0\CashDesk.pdb
+D:\Schule\5.Klasse\Stropek\CSharp\Cashdesk\cash-desk-exercise-StefanWansch\CashDesk\obj\Debug\netcoreapp3.0\CashDesk.dll
+D:\Schule\5.Klasse\Stropek\CSharp\Cashdesk\cash-desk-exercise-StefanWansch\CashDesk\obj\Debug\netcoreapp3.0\CashDesk.pdb
